@@ -28,7 +28,9 @@ Run the Script:
 ## Execute the script by running the following command:
 
 python CTO_extracts_fiterer.py
+
 Follow the prompts to enter the required information (Excel file name, client name, output path, and file name).
+
 Review Output:
 
 The script will inform you about the progress, including sheets where no records were found for the specified client.
